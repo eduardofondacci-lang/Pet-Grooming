@@ -1,0 +1,21 @@
+.header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  margin-top: 60px;
+  gap: 24px;
+}   
+
+.logo {
+  width: 100px;
+  height: auto;
+}
+ 
+
+.title {
+  font-size: 56px;
+  font-weight: 700;
+  -webkit-text-stroke: 2px rgb(150, 184, 202);
+  text-shadow: 6px rgb(103, 89, 89);
+}
